@@ -1,0 +1,21 @@
+#copy_right_footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    background-color: grey;
+}
+
+#resultRow{
+    box-shadow: 0 6px 8px 0 rgba(2, 2, 2, 0.2);
+    border-radius: 30px;
+}
+
+.img:hover{
+    border-radius: 50px;
+}
+
+.img{
+    margin-bottom: 15px;
+    box-shadow: 0 6px 8px 0 rgba(2, 2, 2, 0.2);
+}
